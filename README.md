@@ -32,11 +32,11 @@ Cristiano Filho, Bruna Ribeiro, Lucas Augusto, Jamile Santos– [Link APK]() –
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/ucsal/dm-bes-avi-time-3034,git](https://github.com/ucsal/dm-bes-avi-time-3034.git)
+[https://github.com/ucsal/dm-bes-avi-time-3034,git](https://github.com/lucasagw/agua-viva.git)
 
 ## 🧙‍♂️ Contribution
 
-1. Make the _fork_ of the project (<https://github.com/ucsal/dm-bes-avi-time-3034.git/fork>)
+1. Make the _fork_ of the project (<https://github.com/lucasagw/agua-viva/fork>)
 2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
 3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
 4. _Push_ (`git push origin my-new-feature`)
