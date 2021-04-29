@@ -32,7 +32,7 @@ Cristiano Filho, Bruna Ribeiro, Lucas Augusto, Jamile Santos– [Link APK]() –
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/ucsal/dm-bes-avi-time-3034,git](https://github.com/lucasagw/agua-viva.git)
+[https://github.com/lucasagw/agua-viva.git](https://github.com/lucasagw/agua-viva.git)
 
 ## 🧙‍♂️ Contribution
 
