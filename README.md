@@ -15,7 +15,7 @@ git clone https://github.com/ucsal/dm-bes-avi-time-3034.git
 
 or download the zip from the green button at the beginning of the repository
 
-<img src="https://i.ibb.co/gD1nPwh/aguaviva.jpg" alt="aguaviva" border="0">
+<img src="https://i.ibb.co/vLF3fCV/2021-03-24-23-53-10-github-com-f3b0db456e69.png" alt="Download zip" border="0">
 
 
 
