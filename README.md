@@ -10,7 +10,7 @@ Windows:
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/ucsal/dm-bes-avi-time-3034.git
+git clone https://github.com/lucasagw/agua-viva.git
 ```
 
 or download the zip from the green button at the beginning of the repository
@@ -32,7 +32,7 @@ Cristiano Filho, Bruna Ribeiro, Lucas Augusto, Jamile Santos– [Link APK]() –
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/lucasagw/agua-viva.git](https://github.com/lucasagw/agua-viva.git)
+[https://github.com/lucasagw/agua-viva,git](https://github.com/lucasagw/agua-viva.git)
 
 ## 🧙‍♂️ Contribution
 
