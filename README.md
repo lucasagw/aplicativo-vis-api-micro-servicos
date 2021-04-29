@@ -1,7 +1,7 @@
 # agua-viva
 agua-viva created by GitHub Classroom
 
-<img src= "https://i.ibb.co/mCMgcvW/image.png">
+<img src="https://i.ibb.co/gD1nPwh/aguaviva.jpg" alt="aguaviva" border="0">
 
 ## 🛠 Getting started
 
