@@ -1,6 +1,8 @@
 # AGUA-VIVA
 agua-viva created by GitHub Classroom
 
+<br> [![Prototype](https://i.ibb.co/VMG6cXs/Prototypo-App.png)](https://www.figma.com/file/j3c69AqyQXRxihzcZdIR7p/Prototype-Project-Mobile?node-id=0%3A1)
+
 <img src="https://i.ibb.co/gD1nPwh/aguaviva.jpg" alt="aguaviva" border="0">
 
 ## 🛠 Getting started
