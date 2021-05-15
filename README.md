@@ -1,5 +1,5 @@
-# AGUA-VIVA
-agua-viva created by GitHub Classroom
+# VIS-AQUAE
+vis-aquae created by GitHub Classroom
 
 <br> [![Prototype](https://i.ibb.co/VMG6cXs/Prototypo-App.png)](https://www.figma.com/file/j3c69AqyQXRxihzcZdIR7p/Prototype-Project-Mobile?node-id=0%3A1)
 
@@ -17,7 +17,7 @@ git clone https://github.com/lucasagw/agua-viva.git
 
 or download the zip from the green button at the beginning of the repository
 
-<img src="https://i.ibb.co/vLF3fCV/2021-03-24-23-53-10-github-com-f3b0db456e69.png" alt="Download zip" border="0">
+<img src="<img src="https://i.ibb.co/tqJhGqR/vis-aquae.jpg" alt="vis-aquae" border="0">" alt="Download zip" border="0">
 
 
 
