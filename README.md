@@ -9,7 +9,7 @@ vis-aquae created by GitHub Classroom
 
 ### Caso de uso
 
-<img src="https://i.ibb.co/8Mb4TLZ/Caso-de-Uso-vis-aquae-1.png" alt="Caso-de-Uso-vis-aquae-1" border="0">
+<img src="https://i.ibb.co/bWnTCpN/Caso-de-Uso-vis-aquae-2.png" alt="Caso-de-Uso-vis-aquae-2" border="0">
 
 ## Protótipo
 
