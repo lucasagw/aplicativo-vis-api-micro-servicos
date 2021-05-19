@@ -1,6 +1,8 @@
 # VIS-AQUAE
 vis-aquae created by GitHub Classroom
 
+## [Documento de Requisitos](https://docs.google.com/document/d/1vSnOqs6oYxMnJhNvfff6uQ4Gg4PAJYJzV6xjeuFA1Dg/edit?usp=sharing)
+
 ## Diagramas 
 
 ### Banco de Dados
