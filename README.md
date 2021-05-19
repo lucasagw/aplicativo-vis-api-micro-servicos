@@ -1,9 +1,15 @@
 # VIS-AQUAE
 vis-aquae created by GitHub Classroom
 
-## Diagrama Banco de Dados
+## Diagrama 
+
+### Banco de Dados
 
 <img src="https://i.ibb.co/9WhBt7Y/Diagrama-BD-vis-aquae.png" alt="Diagrama-BD-vis-aquae" border="0">
+
+### Caso de uso
+
+<img src="https://i.ibb.co/YjC3m7N/Caso-de-Uso-vis-aquae.png" alt="Caso-de-Uso-vis-aquae" border="0">
 
 ## Protótipo
 
