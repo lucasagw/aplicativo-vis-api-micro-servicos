@@ -3,7 +3,7 @@ vis-aquae created by GitHub Classroom
 
 ## Diagrama Banco de Dados
 
-<br> [![DataBaseDiagram](https://ibb.co/VTxbmsB)]
+<br> [![DataBaseDiagram](https://ibb.co/VTxbmsB)]<img src="https://i.ibb.co/9WhBt7Y/Diagrama-BD-vis-aquae.png" alt="Diagrama-BD-vis-aquae" border="0">
 
 ## Protótipo
 
