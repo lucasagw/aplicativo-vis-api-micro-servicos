@@ -1,7 +1,7 @@
 # VIS-AQUAE
 vis-aquae created by GitHub Classroom
 
-## Diagrama 
+## Diagramas 
 
 ### Banco de Dados
 
