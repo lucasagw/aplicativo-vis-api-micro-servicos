@@ -1,19 +1,19 @@
 # VIS-AQUAE
 vis-aquae created by GitHub Classroom
 
-## [Documento de Requisitos](https://docs.google.com/document/d/1vSnOqs6oYxMnJhNvfff6uQ4Gg4PAJYJzV6xjeuFA1Dg/edit?usp=sharing)
+## [Requisite Document](https://docs.google.com/document/d/1vSnOqs6oYxMnJhNvfff6uQ4Gg4PAJYJzV6xjeuFA1Dg/edit?usp=sharing)
 
-## Diagramas 
+## Diagrams 
 
-### Banco de Dados
+### Data Base
 
-<img src="https://i.ibb.co/9WhBt7Y/Diagrama-BD-vis-aquae.png" alt="Diagrama-BD-vis-aquae" border="0">
+<img src="https://i.ibb.co/tq58kNk/Diagrama-BD-vis-aquae.png" alt="Diagrama-BD-vis-aquae" border="0">
 
-### Caso de uso
+### Use Case
 
 <img src="https://i.ibb.co/dPLfTTW/Caso-de-Uso-vis-aquae-3.png" alt="Caso-de-Uso-vis-aquae-3" border="0">
 
-## Protótipo
+## Prototype
 
 <br> [![Prototype](https://i.ibb.co/0tjMnxj/image.png)](https://www.figma.com/file/j3c69AqyQXRxihzcZdIR7p/Prototype-Project-Mobile?node-id=0%3A1)
 
