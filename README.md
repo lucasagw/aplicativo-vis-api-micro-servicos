@@ -49,7 +49,7 @@ Cristiano Filho, Bruna Ribeiro, Lucas Augusto, Jamile Santos– [Link APK]() –
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/lucasagw/vis-aquae,git](https://github.com/lucasagw/vis-aquae.git)
+[https://github.com/lucasagw/vis-aquae.git](https://github.com/lucasagw/vis-aquae.git)
 
 ## 🧙‍♂️ Contribution
 
