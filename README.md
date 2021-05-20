@@ -45,7 +45,7 @@ or download the zip from the green button at the beginning of the repository
 
 ## 📝 Team
 
-Cristiano Filho, Bruna Ribeiro, Lucas Augusto, Jamile Santos– [Link APK]() – 
+Bruna Ribeiro, Cristiano Filho, Jamile Santos, Lucas Walter, Tarcisio Oliveira – [Link APK]() – 
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
