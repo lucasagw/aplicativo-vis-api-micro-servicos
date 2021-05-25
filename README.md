@@ -70,5 +70,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 :---: | ---
 [<img src="https://avatars.githubusercontent.com/u/72201119?s=400&v=4" width="200px;"/><br><sub><b>Bruna Ribeiro</b></sub>](https://github.com/BrunaRA) | 	 [<img src="https://avatars.githubusercontent.com/u/61759621?s=400&u=26c93abf351a021e82ab2497b22dbd86ee13a6c9&v=4" width="200px;"/><br><sub><b>Jamile Santos</b></sub>](https://github.com/Jamile77) |
 :---: | ---
-[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) | 	 [<img src="https://avatars.githubusercontent.com/u/554178?v=4" width="200px;"/><br><sub><b>Mario Jorge</b></sub>](https://github.com/mariojp) |
+[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) | 	 [<img src="https://avatars.githubusercontent.com/u/554178?v=4" width="200px;"/><br><sub><b>Mario Jorge</b></sub>](https://github.com/mariojp) | 
 
