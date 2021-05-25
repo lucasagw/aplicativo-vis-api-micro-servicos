@@ -15,7 +15,7 @@ vis-aquae created by GitHub Classroom
 
 ## Prótotipo
 
-<br> [![Prototype](https://i.ibb.co/0tjMnxj/image.png)](https://www.figma.com/file/j3c69AqyQXRxihzcZdIR7p/Prototype-Project-Mobile?node-id=0%3A1)
+<br> [![Prototype](https://ibb.co/djHvj0q)](https://www.figma.com/file/j3c69AqyQXRxihzcZdIR7p/Prototype-Project-Mobile?node-id=0%3A1)
 
 <img src="https://i.ibb.co/tqJhGqR/vis-aquae.jpg" alt="vis-aquae" border="0">
 
