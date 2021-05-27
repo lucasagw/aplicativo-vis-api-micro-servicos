@@ -2,7 +2,7 @@
 vis-aquae created by GitHub Classroom
 
 ## Documentation in English
-### just click on the icon👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽
+### 👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽 just click on the icon
 <br> [![Documentation](https://i.ibb.co/yhPJCdy/english.png)](https://github.com/lucasagw/vis-aquae/blob/main/README-BR.md) 
 
 ## [Documento de Requisitos](https://docs.google.com/document/d/1vSnOqs6oYxMnJhNvfff6uQ4Gg4PAJYJzV6xjeuFA1Dg/edit?usp=sharing) 
