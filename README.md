@@ -47,7 +47,7 @@ or download the zip from the green button at the beginning of the repository
 
 ## 📝 Team
 
-Bruna Ribeiro, Cristiano Filho, Jamile Santos, Lucas Walter, Tarcisio Oliveira – [Link APK]() – 
+Alexandre Karl, Lucas Walter, Jamile Santos – [Link APK]() – 
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
@@ -68,7 +68,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Colaborators
 	
 
-[<img src="https://avatars.githubusercontent.com/u/60965153?v=4" width="200px; "/><br><sub><b>Alexandre Karl</b></sub>](https://github.com/alexandrekva) |  [<img src="https://avatars.githubusercontent.com/u/79553621?s=400&v=4" width="200px;"/><br><sub><b>Lucas Augusto</b></sub>](https://github.com/lucasagw) | 	
+[<img src="https://avatars.githubusercontent.com/u/60965153?v=4" width="200px; "/><br><sub><b>Alexandre Karl</b></sub>](https://github.com/alexandrekva) |  [<img src="https://avatars.githubusercontent.com/u/79553621?s=400&v=4" width="200px;"/><br><sub><b>Lucas Walter</b></sub>](https://github.com/lucasagw) | 	
 :---: | ---
 [<img src="https://avatars.githubusercontent.com/u/15247079?v=4" width="200px;"/><br><sub><b>Jamile Santos</b></sub>](https://github.com/jamile08) |
 
