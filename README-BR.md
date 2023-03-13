@@ -69,9 +69,6 @@ Distribuído sob o MIT License. Veja [LICENSE](LICENSE) para mais informações.
 ## Colaboradores
 	
 
- [<img src="https://avatars.githubusercontent.com/u/54041918?s=400&u=9691b69b1b7c46137971d4b2775228007fff85a9&v=4" width="200px; "/><br><sub><b>Cristiano Filho</b></sub>](https://github.com/CristianoFilho) |  [<img src="https://avatars.githubusercontent.com/u/79553621?s=400&v=4" width="200px;"/><br><sub><b>Lucas Augusto</b></sub>](https://github.com/lucasagw) | 	
+[<img src="https://avatars.githubusercontent.com/u/60965153?v=4" width="200px; "/><br><sub><b>Alexandre Karl</b></sub>](https://github.com/alexandrekva) |  [<img src="https://avatars.githubusercontent.com/u/79553621?s=400&v=4" width="200px;"/><br><sub><b>Lucas Augusto</b></sub>](https://github.com/lucasagw) | 	
 :---: | ---
-
-[<img src="https://avatars.githubusercontent.com/u/72201119?s=400&v=4" width="200px;"/><br><sub><b>Bruna Ribeiro</b></sub>](https://github.com/BrunaRA) | 	 [<img src="https://avatars.githubusercontent.com/u/15247079?v=4" width="200px;"/><br><sub><b>Jamile Santos</b></sub>](https://github.com/jamile08) |
-:---: | ---
-[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) | 	 [<img src="https://avatars.githubusercontent.com/u/38543813?v=4" width="200px;"/><br><sub><b>Samir Barreto</b></sub>](https://github.com/samirbarreto) |
+[<img src="https://avatars.githubusercontent.com/u/15247079?v=4" width="200px;"/><br><sub><b>Jamile Santos</b></sub>](https://github.com/jamile08) |
