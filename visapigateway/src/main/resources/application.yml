@@ -1,0 +1,49 @@
+server:
+  port: 8762
+
+eureka:
+  client:
+    enabled: false
+       
+jwt:
+  secret: S0l0$Br4$Il
+      
+spring:
+  profiles:
+    active: dev
+  application:
+    name: vis-api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: vis-api-authorizationserver
+          uri: http://visauthorization-api:8763
+          predicates:
+            - Path=/visAuthorizationServer/auth/**
+        
+        - id: vis-api-user
+          uri: http://visusers-api:8764
+          predicates:
+            - Method=GET,POST,PUT,DELETE
+            - Path=/visApiUser/**  
+        
+        - id: vis-api-notify
+          uri: http://visnotification-api:8765
+          predicates:
+            - Method=GET,POST,PUT,DELETE
+            - Path=/visApiNotification/**
+        
+        - id: vis-api-consumo
+          uri: http://visconsumo-api:8766
+          predicates:
+            - Method=GET,POST,PUT,DELETE
+            - Path=/visApiConsumo/**
+        
+        - id: vis-api-eletro
+          uri: http://visletro-api:8767
+          predicates:
+            - Method=GET,POST,PUT,DELETE
+            - Path=/visApiEletro/**
+            
+
+

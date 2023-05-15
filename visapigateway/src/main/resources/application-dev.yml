@@ -1,0 +1,51 @@
+logging:
+  file:
+    name: ${PATH_ARQUIVOS_LOG_VIS}visAquaeApiGateway.log
+    path: .
+    clean-history-on-start: true
+server:
+  port: 8762
+
+eureka:
+ client:
+  enabled: false
+      
+jwt:
+  secret: S0l0$Br4$Il
+      
+spring:
+  application:
+    name: vis-api-gateway
+  cloud:
+    gateway:
+      routes:
+      - id: vis-api-authorizationserver
+        uri: http://localhost:8763
+        predicates:
+        - Path=/visAuthorizationServer/auth/**
+        
+      - id: vis-api-user
+        uri: http://localhost:8764
+        predicates:
+        - Method=GET,POST,PUT,DELETE
+        - Path=/visApiUser/**  
+        
+      - id: vis-api-notify
+        uri: http://localhost:8765
+        predicates:
+        - Method=GET,POST,PUT,DELETE
+        - Path=/visApiNotification/**
+        
+      - id: vis-api-consumo
+        uri: http://localhost:8766
+        predicates:
+        - Method=GET,POST,PUT,DELETE
+        - Path=/visApiConsumo/**
+        
+      - id: vis-api-eletro
+        uri: http://localhost:8767
+        predicates:
+        - Method=GET,POST,PUT,DELETE
+        - Path=/visApiEletro/**
+        
+
