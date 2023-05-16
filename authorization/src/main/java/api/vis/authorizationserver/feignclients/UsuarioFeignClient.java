@@ -9,7 +9,7 @@ import api.vis.authorizationserver.model.UsuarioDto;
 import api.vis.authorizationserver.model.dto.UsuarioDetailsDto;
 
 @Component
-@FeignClient(name = "vis-api-user", url = "http://visusers-api:8764/visApiUser/usuario")
+@FeignClient(name = "vis-api-user", url = "http://localhost:8764/visApiUser/usuario")//http://visusers-api:8764/visApiUser/usuario
 public interface UsuarioFeignClient {
 
 	@GetMapping(value= "/telefonelogin/{telefone}")
