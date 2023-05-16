@@ -1,0 +1,119 @@
+version: '3'
+
+services:
+  postgres-db:
+    container_name: postgres-db
+    image: postgres
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "admin"
+      POSTGRES_DB: "VIS"
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "5432:5432"
+    networks:
+      - docker-network
+    restart: always
+
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "admin@gmail.com"
+      PGADMIN_DEFAULT_PASSWORD: "admin"
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "80:80"
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+  
+  visauthorization-api:
+    container_name: visauthorization-api
+    image: authorization:0.0.1-SNAPSHOT
+    environment:
+      #SPRING_PROFILES_ACTIVE: dev
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "8763:8763"  
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+
+  visgateway-api:
+    container_name: visgateway-api
+    image: visapigateway:0.0.1-SNAPSHOT
+    environment:
+      #SPRING_PROFILES_ACTIVE: dev
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "8762:8762"    
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+
+  visnotification-api:
+    container_name: visnotification-api
+    image: notification:0.0.1-SNAPSHOT
+    environment:
+      #SPRING_PROFILES_ACTIVE: dev
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "8765:8765" 
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+
+  visusers-api:
+    container_name: visusers-api
+    image: visusers:0.0.1-SNAPSHOT
+    environment:
+      #SPRING_PROFILES_ACTIVE: dev
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "8764:8764" 
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+
+  visconsumo-api:
+    container_name: visconsumo-api
+    image: visconsumo:0.0.1-SNAPSHOT
+    environment:
+      #SPRING_PROFILES_ACTIVE: dev
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "8766:8766" 
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+
+  viseletro-api:
+    container_name: visletro-api
+    image: viseletro:0.0.1-SNAPSHOT
+    environment:
+      #SPRING_PROFILES_ACTIVE: dev
+      TZ: "America/Sao_Paulo"
+    ports:
+      - "8767:8767" 
+    depends_on:
+      - postgres-db
+    networks:
+      - docker-network
+    restart: always
+
+networks:
+  docker-network:
+    driver: bridge

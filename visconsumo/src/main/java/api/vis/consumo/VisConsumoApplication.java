@@ -1,0 +1,16 @@
+package api.vis.consumo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
+import org.springframework.scheduling.annotation.EnableScheduling;
+
+@EnableScheduling
+@EnableFeignClients
+@SpringBootApplication
+public class VisConsumoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(VisConsumoApplication.class, args);
+	}
+}
