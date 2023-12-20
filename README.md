@@ -9,17 +9,17 @@ vis-aquae created by GitHub Classroom
 
 ### Data Base
 
-<img src="https://i.ibb.co/tq58kNk/Diagrama-BD-vis-aquae.png" alt="Diagrama-BD-vis-aquae" border="0">
+<img src="https://i.ibb.co/sgSx9bP/der-vis-app.png" alt="der-vis-app" border="0">
 
 ### Use Case
 
-<img src="https://i.ibb.co/QNdQhvr/Caso-de-Uso-vis-aquae.png" alt="Caso-de-Uso-vis-aquae" border="0">
+<img src="https://i.ibb.co/x13TmYt/UML-use-case-diagram-app-vis.png" alt="UML-use-case-diagram-app-vis" border="0">
 
 ## Prototype
 
 <br> [![Prototype](https://i.ibb.co/rFXhFGS/telas.gif)](https://www.figma.com/file/jEOmi6DAXx6NIYNg3ztjdY/Projeto-Vis-Aque-team-library?node-id=915-337&t=A1cOADClL9FsLNMi-0)
 
-<img src="https://i.ibb.co/tqJhGqR/vis-aquae.jpg" alt="vis-aquae" border="0">
+<img src="https://i.ibb.co/Bs7bhwX/vis-apresentation.jpg" alt="vis-apresentation" border="0">
 
 ## 🛠 Getting started
 
