@@ -17,7 +17,7 @@ vis-aquae created by GitHub Classroom
 
 ## Prototype
 
-<br> [![Prototype](https://i.ibb.co/rFXhFGS/telas.gif)](https://www.figma.com/file/jEOmi6DAXx6NIYNg3ztjdY/Projeto-Vis-Aque-team-library?node-id=915-337&t=A1cOADClL9FsLNMi-0)
+<br> [![Prototype](https://i.ibb.co/L99SG6W/device-vis.gif)](https://www.figma.com/file/jEOmi6DAXx6NIYNg3ztjdY/Projeto-Vis-Aque-team-library?node-id=915-337&t=A1cOADClL9FsLNMi-0)
 
 <img src="https://i.ibb.co/Bs7bhwX/vis-apresentation.jpg" alt="vis-apresentation" border="0">
 
